@@ -1,2 +1,2 @@
 # youtubeautomate
-how to use youtube api 
+HELLO FRIENDS JUST DOWNLAOD THIS PYTHON FILE AND ENTER YOUR OWN API KEY 
